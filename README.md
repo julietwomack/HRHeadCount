@@ -1,6 +1,7 @@
 # HRHeadCount
 
-The following SQL queries count the headcount of current employees at a fictitious company by 6 different segments:
+The following SQL queries written in Microsoft SQL Server count the headcount of current employees at a fictitious company by 6 different segments:
+
 - Performance Score
 - Employee Satisfaction
 - Compensation
